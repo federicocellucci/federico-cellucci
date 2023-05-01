@@ -1,0 +1,28 @@
+/*federico cellucci*/
+h1{
+ color: green;
+ text-decoration: underline;
+ padding: 30px 30px 30px 30px;
+ border: 10px solid red;
+ background: yellow;
+ width: 250px;
+ margin-left: auto;
+ margin-right: auto;
+}
+/*amatori top runners castelli romani*/
+h2{
+ color: green;
+ background: yellow;
+ margin-left: auto;
+ margin-right: auto;
+}
+#header{
+	font-style: italic;
+}
+#content p {
+font-weight: bold;
+}
+#content ul li a{
+color: green;
+text-decoration: none;
+}
